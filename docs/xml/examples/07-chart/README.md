@@ -139,7 +139,7 @@ Set colours using `bg`, `fill`, `line` and `text`. These can be "r,g,b", or "r,g
 <kbd>![07-chart-13.png](07-chart-13.png)</kbd>
 
 
-Set the height using `width', the data points will be scaled smoothly across the given area.
+Set the width of the component using `width', the data points will be scaled smoothly across the given area.
 
 
 ```xml
@@ -161,7 +161,7 @@ Set the text size using `textsize`
 
 ## Marker Size
 
-Set the text size using `marker-size`
+Set the marker size using `marker-size`
 
 
 ```xml

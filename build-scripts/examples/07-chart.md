@@ -66,7 +66,7 @@ Set colours using `bg`, `fill`, `line` and `text`. These can be "r,g,b", or "r,g
 
 {{ <component type="chart" bg="255,255,0" fill="0,255,255" line="255,0,255" text="0,0,255" /> }}
 
-Set the height using `width', the data points will be scaled smoothly across the given area.
+Set the width of the component using `width', the data points will be scaled smoothly across the given area.
 
 {{ <component type="chart" height="100" width="128" /> }}
 
@@ -78,7 +78,7 @@ Set the text size using `textsize`
 
 ## Marker Size
 
-Set the text size using `marker-size`
+Set the marker size using `marker-size`
 
 {{ <component type="chart" marker-size="32" /> }}
 
